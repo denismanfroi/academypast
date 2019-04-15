@@ -1,0 +1,12 @@
+/* ROOT */
+@import 'root.css';
+/* RESET */
+@import 'reset.css';
+/* TEMPLATE */
+@import 'template.css';
+/* OWL */
+@import 'owl.min.css';
+@import 'owl-theme.min.css';
+@import 'animated.css';
+/* FONT GOOGLE ROBOTO */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');

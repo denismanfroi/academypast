@@ -1,0 +1,17 @@
+:root{
+	/*------------------------------------------------ FONT FAMILY*/
+	--font-family: 'Roboto', sans-serif;
+	/*------------------------------------------------ Colors*/
+	--color-default: hsla(354, 70%, 66%, 1);
+	--color-default_hover: hsla(354, 70%, 56%, 1);
+	/* Link */
+	--color-link: hsla(223, 64%, 63%, 1); /* Blue Clear */
+	--color-link_hover: hsla(223, 68%, 52%, 1); /* Blue Dark */
+	/* Selection */
+	--color-selection:;
+	--color-selection_bg:;
+	/* Caret */
+	--color-caret: hsla(0, 100%, 100%, .88);
+	/* Link */
+	--text-decoration: none;
+}
