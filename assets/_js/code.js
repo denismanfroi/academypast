@@ -86,7 +86,7 @@ $('._itens-destaque').owlCarousel({
     loop: false,
     rewind: true,
     margin: 20,
-    nav:false,
+    nav:true,
     animateIn: 'fadeIn',
     animateOut: 'fadeOut',
     autoplay: true,
